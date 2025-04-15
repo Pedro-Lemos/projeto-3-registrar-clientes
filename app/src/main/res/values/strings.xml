@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App3RegistrarClientes</string>
+    <string name="tem_de_tudo">Tem de Tudo</string>
+    <string name="iniciar_cadastro">Iniciar cadastro</string>
+    <string name="bem_vindo">Bem vindo!</string>
+    <string name="ex_pedro">Ex.: Pedro</string>
+    <string name="digite_seu_nome">Digite seu nome:</string>
+    <string name="registrar">Registrar</string>
+    <string name="tela_de_cadastro">Tela de cadastro</string>
+    <string name="cadastro_realizado_com_sucesso">Cadastro realizado com sucesso!</string>
+    <string name="realizar_novo_cadastro">Realizar novo cadastro</string>
+</resources>
